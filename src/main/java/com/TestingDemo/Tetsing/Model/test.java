@@ -7,7 +7,11 @@ public class test {
     private long id;
     private String name;
     private int age;
-    private long mobileNo;
-    private String address;
+    private String location;
+    private String IDproof;
+    private long IDno;
+
+
+
 
 }
